@@ -14,8 +14,7 @@ void setup()
   colorMode(RGB, 1, 1, 1);
   background(0);
 
-  stroke((0.023)*1.4, 0.7, 0.6, 20);
-  line(width/2, 0, width/2, height);
+  
 }
 
 void draw()
